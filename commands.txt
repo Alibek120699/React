@@ -2,4 +2,4 @@ git status
 git add .
 git commit -m "your_comment"
 git checkout secondary
-git push
+git push origin secondary
