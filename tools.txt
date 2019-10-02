@@ -1,0 +1,4 @@
+React, Redux, React-Router-Dom
+Node.js, Express
+MongoDB
+Bootstrap
